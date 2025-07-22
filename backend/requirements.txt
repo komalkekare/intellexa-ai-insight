@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+openai
+python-dotenv
+chromadb
+tiktoken
+requests
+PyPDF2
+atlassian-python-api
+langchain_community
+langchain_cohere
+lxml
+langchain-google-genai
